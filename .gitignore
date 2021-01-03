@@ -3,6 +3,7 @@
 !*.py
 !*.md
 !*.ipynb
+!data
 !.gitignore
 .ipynb_checkpoints
 .vscode
